@@ -12,13 +12,13 @@ In this project, I built a supervised machine learning classification model usin
 
 ## 🔍 Dataset Details
 
-- Source: Scikit-learn’s built-in `load_iris()` dataset
-- Features:  
+- **Source**: Scikit-learn’s built-in `load_iris()` dataset
+- **Features**:  
   - Sepal length  
   - Sepal width  
   - Petal length  
   - Petal width
-- Target: Flower species (Setosa, Versicolor, Virginica)
+- **Target**: Flower species (Setosa, Versicolor, Virginica)
 
 ---
 
@@ -95,10 +95,10 @@ In this project, I built a supervised machine learning classification model usin
 
 ## 🙌 Connect with Me
 
-If you liked this project or have feedback, feel free to connect!
-
-**GitHub:** [@Vijaybattula26](https://github.com/Vijaybattula26)  
-**LinkedIn:** *Add your profile link here*
+- 🔗 **LinkedIn**: [Vijay Battula](https://www.linkedin.com/in/vijay-battula-29a131336/)  
+- 💻 **LeetCode**: [leetcode.com/u/vijaybattula26](https://leetcode.com/u/vijaybattula26/)  
+- 📷 **Instagram**: [@vijay_98857](https://www.instagram.com/vijay_98857?igsh=MTVteXlpNXkwM3lvMg==)  
+- 🐙 **GitHub**: [Vijaybattula26](https://github.com/Vijaybattula26)
 
 ---
 
